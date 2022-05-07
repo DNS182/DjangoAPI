@@ -1,6 +1,6 @@
 # DjangoAPI
 # WITH FUNCTION AND CLASS BASED VIEW EXPLAINED 
-# With permission classes and authenticatin rules
+# With permission classes and authentication rules
 
 trigger migration command and run the server to access the api....
 
